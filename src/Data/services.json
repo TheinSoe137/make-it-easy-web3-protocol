@@ -1,0 +1,94 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "title": "NFT Launchpad",
+            "slug": "nft-launchpad",
+            "description": "Empower creators to launch and manage NFT projects with ease. Our launchpad provides comprehensive tools for minting, auctioning, and managing NFT collections.",
+            "price": 99.99,
+            "isFeatured": true,
+            "image": "/images/nft_launchpad.jpeg"
+        },
+        {
+            "id": 2,
+            "title": "Staking Protocol",
+            "slug": "staking-protocol",
+            "description": "Maximize your crypto holdings by participating in staking activities. Our staking protocol offers secure and reliable staking services across multiple blockchain networks.",
+            "price": 109.99,
+            "isFeatured": false,
+            "image": "/images/staking-protocol.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Exchange",
+            "slug": "exchange",
+            "description": "Trade various cryptocurrencies with ease on our secure exchange platform. Enjoy low fees, high liquidity, and a user-friendly interface for seamless trading experiences.",
+            "price": 119.99,
+            "isFeatured": true,
+            "image": "/images/exchange.png"
+        },
+        {
+            "id": 4,
+            "title": "Marketplace",
+            "slug": "marketplace",
+            "description": "Discover, buy, and sell NFTs, digital assets, and collectibles on our decentralized marketplace. Explore a diverse range of unique creations and connect with creators and collectors worldwide.",
+            "price": 129.99,
+            "isFeatured": false,
+            "image": "/images/marketplace.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Bridging",
+            "slug": "bridging",
+            "description": "Seamlessly transfer assets across different blockchain networks with our bridging solution. Enjoy fast and secure cross-chain transactions to expand your reach and access new opportunities.",
+            "price": 139.99,
+            "isFeatured": false,
+            "image": "/images/bridging.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Decentralized Identity",
+            "slug": "decentralized-identity",
+            "description": "Take control of your digital identity with decentralized identity solutions. Safeguard your personal information and authenticate yourself securely across various online platforms.",
+            "price": 149.99,
+            "isFeatured": true,
+            "image": "/images/Decentralized Identity.jpg"
+        },
+        {
+            "id": 7,
+            "title": "DAO Governance",
+            "slug": "dao-governance",
+            "description": "Empower community-driven decision-making with decentralized autonomous organization (DAO) governance solutions. Enhance transparency, accountability, and inclusivity within your organization.",
+            "price": 159.99,
+            "isFeatured": false,
+            "image": "/images/DAO Governance.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Smart Contract Development",
+            "slug": "smart-contract-development",
+            "description": "Leverage the power of smart contracts to automate and secure transactions on the blockchain. Our smart contract development services offer tailored solutions for your specific needs.",
+            "price": 169.99,
+            "isFeatured": true,
+            "image": "/images/Smart Contract Developmen.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Tokenization Services",
+            "slug": "tokenization-services",
+            "description": "Tokenize assets, securities, and digital representations of real-world assets with our tokenization services. Unlock liquidity, streamline asset management, and facilitate fractional ownership.",
+            "price": 179.99,
+            "isFeatured": false,
+            "image": "/images/Tokenization Services.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Interoperability Solutions",
+            "slug": "interoperability-solutions",
+            "description": "Overcome blockchain interoperability challenges with our comprehensive interoperability solutions. Seamlessly connect disparate blockchain networks and facilitate data and asset transfer.",
+            "price": 189.99,
+            "isFeatured": true,
+            "image": "/images/Interoperability Solutions.jpg"
+        }
+    ]
+}
