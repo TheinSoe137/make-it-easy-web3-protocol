@@ -16,9 +16,9 @@ function page() {
         </h1>
 
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-          Welcome,We'd love to hear from you! Simply fill out the form below,
-          and a member of our dedicated team will reach out to you shortly.
-          Please provide your email address so we can get back to you.
+          Welcome,We would love to hear from you! Simply fill out the form
+          below, and a member of our dedicated team will reach out to you
+          shortly. Please provide your email address so we can get back to you.
         </p>
         <input
           type="text"
